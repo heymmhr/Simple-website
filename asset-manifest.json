@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Simple-website/static/css/main.2f3c6d38.css",
+    "main.js": "/Simple-website/static/js/main.a6278ee5.js",
+    "static/media/app.jpg": "/Simple-website/static/media/app.8eba742a6e2debfd2337.jpg",
+    "static/media/Software.jpg": "/Simple-website/static/media/Software.a24b6126994d53b05450.jpg",
+    "static/media/Marketing.jpg": "/Simple-website/static/media/Marketing.50799d2dda4094696284.jpg",
+    "static/media/web.jpg": "/Simple-website/static/media/web.75b2d8375f91f8a88ada.jpg",
+    "static/media/Android.jpg": "/Simple-website/static/media/Android.ae411bf4d64da3b3a63d.jpg",
+    "static/media/DigitalMarketing.jpg": "/Simple-website/static/media/DigitalMarketing.15c7e166cbf64589dda9.jpg",
+    "static/media/react_img.svg": "/Simple-website/static/media/react_img.cf6fd5108049360dead1946f2bfef346.svg",
+    "static/media/code_thinking.svg": "/Simple-website/static/media/code_thinking.97f6e8a8c4acbb5dea896daea14d5ff4.svg",
+    "index.html": "/Simple-website/index.html",
+    "main.2f3c6d38.css.map": "/Simple-website/static/css/main.2f3c6d38.css.map",
+    "main.a6278ee5.js.map": "/Simple-website/static/js/main.a6278ee5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f3c6d38.css",
+    "static/js/main.a6278ee5.js"
+  ]
+}
